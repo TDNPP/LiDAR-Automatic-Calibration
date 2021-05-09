@@ -45,3 +45,5 @@ To run the examples, you need some point cloud data:
 		L_LiDAR frames: https://drive.google.com/open?id=1r7EY0LDTWw2qpiJb1M-Rh3Tbtl_5vUfk (Copy these pcds into "../data/L-LiDAR-Frames")  	
 		H_LiDAR_Maps:   https://drive.google.com/open?id=17mUeT8eyeIGJrGu8fT3_rG_ktYUXkcHX (Copy this pcd map into "../data/H-LiDAR-Map-data")  
 	
+# Additional Information
+Lidar&Camera :https://gitlab.acfr.usyd.edu.au/its/cam_lidar_calibration 
